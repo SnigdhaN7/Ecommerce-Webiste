@@ -10,7 +10,7 @@ Build a functional e-commerce website where users can:
 
 ## Preview
 
-![[Website Preview]([https://github.com/SnigdhaN7/Ecommerce-Webiste/blob/main/Screenshot%202025-04-29%20123227.png](https://github.com/SnigdhaN7/Ecommerce-Webiste/blob/main/Screenshot%202025-04-29%20123227.png?raw=true))](https://snigdhan7.github.io/Ecommerce-Webiste/)
+![[Website Preview](https://raw.github.com/SnigdhaN7/Ecommerce-Webiste/blob/main/Screenshot%202025-04-29%20123227.png)](https://snigdhan7.github.io/Ecommerce-Webiste/)
 
 > **Note:** This is a frontend-only project (HTML, CSS, JavaScript).
 

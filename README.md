@@ -10,7 +10,7 @@ Build a functional e-commerce website where users can:
 
 ## 📷 Preview
 
-![Website Preview](https://source.unsplash.com/featured/?shopping)
+![Website Preview](https://snigdhan7.github.io/Ecommerce-Webiste/)
 
 > **Note:** This is a frontend-only project (HTML, CSS, JavaScript).
 

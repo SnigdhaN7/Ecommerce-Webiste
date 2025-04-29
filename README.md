@@ -1,16 +1,16 @@
 # Ecommerce-Webiste
 # E-commerce Website
 
-## 📌 Objective
+## Objective
 Build a functional e-commerce website where users can:
 - Browse products
 - Add/remove items to the cart
 - Login/Register
 - View and manage products (Admin dashboard)
 
-## 📷 Preview
+## Preview
 
-![Website Preview]([https://snigdhan7.github.io/Ecommerce-Webiste/](https://snigdhan7.github.io/Ecommerce-Webiste/))
+![Website Preview](https://snigdhan7.github.io/Ecommerce-Webiste/)
 
 > **Note:** This is a frontend-only project (HTML, CSS, JavaScript).
 
@@ -18,9 +18,7 @@ Build a functional e-commerce website where users can:
 
 ## 🛠️ Features
 - 🛒 **Product Listing**: 50 products with images from Unsplash API.
-- 🛍️ **Shopping Cart**: Add/Remove items, view cart.
 - 🔐 **Authentication**: Login and Register pages (Frontend mockup).
-- 📦 **Checkout**: Checkout button available (no real payment gateway integrated).
 - 🧑‍💻 **Admin Dashboard**: View list of products.
 
 ---

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Admin Dashboard</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="cart.html">Cart</a> |
+            <a href="admin.html">Admin</a>
+        </nav>
+    </header>
+
+    <section class="admin-section">
+        <h2>Manage Products</h2>
+        <div id="admin-products">Loading products...</div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const products = [];
+            for (let i = 1; i <= 50; i++) {
+                products.push({
+                    id: i,
+                    name: `Product ${i}`,
+                    price: (Math.random() * 100 + 10).toFixed(2),
+                    image: `https://source.unsplash.com/300x200/?product,${i}`
+                });
+            }
+
+            const adminProducts = document.getElementById('admin-products');
+            let html = '<ul>';
+            products.forEach(product => {
+                html += `<li><strong>${product.name}</strong> - $${product.price}</li>`;
+            });
+            html += '</ul>';
+            adminProducts.innerHTML = html;
+        });
+    </script>
+</body>
+</html>

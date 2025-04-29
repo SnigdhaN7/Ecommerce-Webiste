@@ -16,14 +16,14 @@ Build a functional e-commerce website where users can:
 
 ---
 
-## 🛠️ Features
-- 🛒 **Product Listing**: 50 products with images from Unsplash API.
-- 🔐 **Authentication**: Login and Register pages (Frontend mockup).
-- 🧑‍💻 **Admin Dashboard**: View list of products.
+## Features
+-  **Product Listing**: 50 products with images from Unsplash API.
+-  **Authentication**: Login and Register pages (Frontend mockup).
+-  **Admin Dashboard**: View list of products.
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ecommerce-website/
 ├── index.html
 ├── cart.html
@@ -35,10 +35,10 @@ ecommerce-website/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
-1. **Clone the Repository** or **Download** as ZIP.
-2. Extract the folder if zipped.
+1. **Download** as ZIP.
+2. Extract the folder if zipped(mandatory).
 3. Open the folder.
 4. Double-click on `index.html` to launch the website in your browser!
 
@@ -46,19 +46,19 @@ ecommerce-website/
 
 ---
 
-## 📚 Tech Stack Used
+## Tech Stack Used
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
 ---
 
-## 🎯 Evaluation Criteria
-- ✔️ Functionality
-- ✔️ Code Quality
-- ✔️ User Experience
-- ✔️ Innovation & Creativity
-- ✔️ Documentation
+##  Evaluation Criteria
+- Functionality
+- Code Quality
+- User Experience
+- Innovation & Creativity
+- Documentation
 
 ---
 
